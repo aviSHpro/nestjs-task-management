@@ -1,0 +1,4 @@
+server:
+    origin: http://nestjs-frontend-avinash.s3-website-us-west-2.amazonaws.com
+db:
+    synchronize: false
